@@ -1,0 +1,46 @@
+.lablab-accordion, .lablab-tabs {
+
+	.uk-accordion {
+
+		margin: 0;
+		padding: 0;
+
+		> li {
+			list-style: none !important;
+			margin-bottom: 10px;
+			overflow: hidden;
+			border-radius: 6px;
+		}
+
+		.uk-accordion-title {
+			padding: 0.5em 3em 0.5em 25px;
+			position: relative;
+			background-color: #f4f4f4;
+			margin-bottom: 0;
+			transition: background-color 0.3s ease-out 0s, color 0.3s ease-out 0s;
+
+			> i {
+		    	font-size: 1.5em;
+		    	margin-top: -0.5em;
+		    	position: absolute;
+		    	right: 1em;
+		    	top: 50%;
+		    	transform: rotate(0);
+		    	transition: transform 0.2s ease-out;
+			}
+			&.uk-active {
+				> i {
+					transform: rotate(180deg);
+				}
+			}
+			&.uk-active, &:hover {
+				background-color: @lablab-highlight-color;
+				color: #fff;
+			}
+		}
+		.uk-accordion-content {
+			background-color: #f4f4f4;
+			padding: 25px;
+		}
+	}
+}

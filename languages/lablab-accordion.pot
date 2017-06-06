@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-02 15:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: fields/lablab-accordion-fields.php:16
+msgid "Elements"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:32
+msgid "Accordion Elements"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:47
+msgid "Add Accordion Element"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:51
+msgid "Title"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:70
+msgid "Content"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:91
+msgid "Options"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:107
+msgid "Expand first element on page load?"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:110
+msgid "Should the first accordion element be expanded on page load?"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:119
+#: fields/lablab-accordion-fields.php:143
+msgid "Yes"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:120
+#: fields/lablab-accordion-fields.php:144
+msgid "No"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:131
+msgid "Expand only one element at a time?"
+msgstr ""
+
+#: fields/lablab-accordion-fields.php:134
+msgid "Should only one element be expanded at a time?"
+msgstr ""
+
+#. Name of the plugin
+msgid "Lablab Builder Accordion Module"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds an accordion module to lablab builder."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/team-ok/lablab-builder-accordion"
+msgstr ""
+
+#. Author of the plugin
+msgid "Timo Klemm"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/team-ok"
+msgstr ""

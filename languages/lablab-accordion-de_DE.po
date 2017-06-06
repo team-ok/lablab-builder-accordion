@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lablab Builder Accordion Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-02 15:04+0000\n"
+"PO-Revision-Date: 2017-06-04 22:24+0000\n"
+"Last-Translator: Timo Klemm <klemm@phil.hhu.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+msgid "https://github.com/team-ok/lablab-builder-accordion"
+msgstr "https://github.com/team-ok/lablab-builder-accordion"
+
+#. Author URI of the plugin
+msgid "https://github.com/team-ok"
+msgstr "https://github.com/team-ok"
+
+#: fields/lablab-accordion-fields.php:16
+msgid "Elements"
+msgstr "Elemente"
+
+#: fields/lablab-accordion-fields.php:32
+msgid "Accordion Elements"
+msgstr "Akkordeon-Elemente"
+
+#: fields/lablab-accordion-fields.php:47
+msgid "Add Accordion Element"
+msgstr "Akkordeon-Element hinzufügen"
+
+#: fields/lablab-accordion-fields.php:51
+msgid "Title"
+msgstr "Titel"
+
+#: fields/lablab-accordion-fields.php:70
+msgid "Content"
+msgstr "Inhalt"
+
+#: fields/lablab-accordion-fields.php:91
+msgid "Options"
+msgstr "Optionen"
+
+#: fields/lablab-accordion-fields.php:107
+msgid "Expand first element on page load?"
+msgstr "Erstes Element bei Seitenaufruf ausklappen?"
+
+#: fields/lablab-accordion-fields.php:110
+msgid "Should the first accordion element be expanded on page load?"
+msgstr "Soll das erste Akkordeon-Element bei Seitenaufruf ausgeklappt werden?"
+
+#: fields/lablab-accordion-fields.php:119
+#: fields/lablab-accordion-fields.php:143
+msgid "Yes"
+msgstr "Ja"
+
+#: fields/lablab-accordion-fields.php:120
+#: fields/lablab-accordion-fields.php:144
+msgid "No"
+msgstr "Nein"
+
+#: fields/lablab-accordion-fields.php:131
+msgid "Expand only one element at a time?"
+msgstr "Nur ein Element gleichzeitig ausklappen?"
+
+#: fields/lablab-accordion-fields.php:134
+msgid "Should only one element be expanded at a time?"
+msgstr "Soll immer nur ein Element gleichzeitig ausgeklappt sein?"
+
+#. Name of the plugin
+msgid "Lablab Builder Accordion Module"
+msgstr "Lablab Builder Akkordeon Modul"
+
+#. Description of the plugin
+msgid "Adds an accordion module to lablab builder."
+msgstr "Ein Akkordeon-Modul für den Lablab Builder."
+
+#. Author of the plugin
+msgid "Timo Klemm"
+msgstr "Timo Klemm"
