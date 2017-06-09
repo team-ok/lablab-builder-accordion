@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lablab Builder Accordion Module\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-02 15:04+0000\n"
-"PO-Revision-Date: 2017-06-04 22:24+0000\n"
+"POT-Creation-Date: 2017-06-09 09:03+0000\n"
+"PO-Revision-Date: 2017-06-09 09:03+0000\n"
 "Last-Translator: Timo Klemm <klemm@phil.hhu.de>\n"
 "Language-Team: German\n"
 "Language: de-DE\n"
@@ -13,13 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco - https://localise.biz/"
 
-#. URI of the plugin
-msgid "https://github.com/team-ok/lablab-builder-accordion"
-msgstr "https://github.com/team-ok/lablab-builder-accordion"
-
-#. Author URI of the plugin
-msgid "https://github.com/team-ok"
-msgstr "https://github.com/team-ok"
+#: classes/class-lablab-builder-accordion-module.php:16
+msgid "Accordion"
+msgstr "Akkordeon"
 
 #: fields/lablab-accordion-fields.php:16
 msgid "Elements"
@@ -79,6 +75,14 @@ msgstr "Lablab Builder Akkordeon Modul"
 msgid "Adds an accordion module to lablab builder."
 msgstr "Ein Akkordeon-Modul für den Lablab Builder."
 
+#. URI of the plugin
+msgid "https://github.com/team-ok/lablab-builder-accordion"
+msgstr "https://github.com/team-ok/lablab-builder-accordion"
+
 #. Author of the plugin
 msgid "Timo Klemm"
 msgstr "Timo Klemm"
+
+#. Author URI of the plugin
+msgid "https://github.com/team-ok"
+msgstr "https://github.com/team-ok"
